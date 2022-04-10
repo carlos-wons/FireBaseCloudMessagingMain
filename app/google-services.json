@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892756382051",
+    "project_id": "fir-test-241ba",
+    "storage_bucket": "fir-test-241ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892756382051:android:6f8f58621be072dbd68356",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892756382051-gth997vkl2ne36o0e181qnm7ro6ij0ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQNUIw2redkhfETBvgEw0bIwmMMjabWJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892756382051-gth997vkl2ne36o0e181qnm7ro6ij0ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
